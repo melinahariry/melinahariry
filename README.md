@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ccnp
 - 💞️ I’m looking to collaborate on what I'm intrested about
 - 📫 How to reach me 
-  on Instagram : @melina_greatest, 
   on Email : melina.hariry@gmail.com
-  & on Discord : Melina#4445
+  & on Discord : ᴍᴇʟɪ#7204
 
 <!---
 melinahariry/melinahariry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
